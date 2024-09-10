@@ -48,4 +48,28 @@ export SPOTIPY_REDIRECT_URI='http://localhost:8888/callback'
 
 ![ShortTermVsLongTerm](https://github.com/user-attachments/assets/d62abd60-93f1-4aea-b6cf-7176c194130e)
 
+The Spotipy library offers several key features for interacting with the Spotify Web API:
 
+*    Full API access: Spotipy provides access to all endpoints of the Spotify Web API, allowing you to retrieve a wide range of music data
+
+*    User authorization support: The library supports both the Authorization Code flow and the Client Credentials flow for user authentication
+
+*    Lightweight and easy to use: Spotipy is designed to be a lightweight Python wrapper for the Spotify Web API, making it simple to integrate into your projects
+
+*    Comprehensive data retrieval: You can fetch information about artists, albums, tracks, playlists, user profiles, and more
+
+*    Search functionality: Spotipy allows you to search for items in the Spotify catalog
+
+*    Playlist management: You can create, modify, and delete playlists, as well as add or remove tracks
+
+*    User library interactions: The library enables you to access and modify a user's saved tracks and albums
+
+*    Audio features and analysis: You can retrieve audio features and detailed audio analysis for tracks
+
+*    Personalisation: Spotipy provides access to personalized data such as a user's top artists and tracks
+
+*    Follow/unfollow functionality: You can manage following/unfollowing artists, users, and playlists
+
+*    Browse and recommendations: The library allows you to access Spotify's browse and recommendation features
+
+*    Error handling: Spotipy includes built-in error handling for API requests
