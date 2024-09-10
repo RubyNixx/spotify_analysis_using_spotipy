@@ -38,9 +38,12 @@ https://github.com/RubyNixx/spotify_analysis_using_spotipy/blob/main/Steps_to_cr
 
 4. Run the main python script in google colab
 
-5. On first run, you'll be prompted to authorise the app to access your Spotify data. Follow the link provided to complete the authorisation process.
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RubyNixx/spotify_analysis_using_spotipy/blob/main/spotipy.ipynb)
 
-6. Sample Outputs:
+
+6. On first run, you'll be prompted to authorise the app to access your Spotify data. Follow the link provided to complete the authorisation process.
+
+7. Sample Outputs:
 
 ![spotipy2](https://github.com/user-attachments/assets/8346eab9-e412-4d0e-b6ce-4965b254605a)
 
