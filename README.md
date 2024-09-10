@@ -30,6 +30,9 @@ git clone https://github.com/RubyNixx/spotipy_user_analysis.git
 
 3. Set environment variables with your Spotify credentials:
 <b>Do not share your API client ID or client secret on Github</b>
+
+To handle this, i've used files with enviroment variables (.env) and utilised a .gitignore file to ensure sensitive information isnt included. I've then set and called them as variables within the python code.
+
 export SPOTIPY_CLIENT_ID='your-client-id'
 export SPOTIPY_CLIENT_SECRET='your-client-secret'
 export SPOTIPY_REDIRECT_URI='http://localhost:8888/callback'
@@ -52,7 +55,7 @@ The Spotipy library offers several key features for interacting with the Spotify
 
 *    Full API access: Spotipy provides access to all endpoints of the Spotify Web API, allowing you to retrieve a wide range of music data
 
-*    User authorization support: The library supports both the Authorization Code flow and the Client Credentials flow for user authentication
+*    User authorisation support: The library supports both the Authorization Code flow and the Client Credentials flow for user authentication
 
 *    Lightweight and easy to use: Spotipy is designed to be a lightweight Python wrapper for the Spotify Web API, making it simple to integrate into your projects
 
@@ -73,3 +76,21 @@ The Spotipy library offers several key features for interacting with the Spotify
 *    Browse and recommendations: The library allows you to access Spotify's browse and recommendation features
 
 *    Error handling: Spotipy includes built-in error handling for API requests
+
+More information can be found here: 
+<b>Spotipy API documentation:</b>
+https://spotipy.readthedocs.io/en/2.24.0/
+  Note: This will help with understanding the API & how to connect to it. I've included a clause in the python code to help work with the API in a google colab notebook.
+
+<b>Spotipy githib repo:</b>
+https://github.com/spotipy-dev/spotipy
+
+<b>Spotipy scopes:</b>
+https://developer.spotify.com/documentation/web-api/concepts/scopes#user-top-read
+
+<b>Stack overflow thread that helped with audio features:</b>
+https://stackoverflow.com/questions/38823403/scrape-deep-audio-features-using-spotipy-python-library
+
+<b>Exploring features of Spotify playlists - data collection code:</b>
+https://orda.shef.ac.uk/articles/code/Exploring_features_of_Spotify_playlists_data_collection_code/19107998
+
