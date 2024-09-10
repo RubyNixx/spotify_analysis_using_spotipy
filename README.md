@@ -4,10 +4,10 @@ This project uses the Spotipy library in Google Colab to analyse personal Spotif
 
 <b><i>Features</i></b>
 
-    Retrieves your top tracks and artists over different time ranges
-    Calculates average audio features (danceability, energy, etc.) of your most-played tracks
-    Generates a breakdown of your listening habits by genre
-    Visualizes listening trends over time
+*   Retrieves your top tracks and artists over different time ranges
+*   Calculates average audio features (danceability, energy, etc.) of your most-played tracks
+*   Generates a breakdown of your listening habits by genre
+*   Visualizes listening trends over time
 
 <b><i>Prerequisites</i></b>
 
