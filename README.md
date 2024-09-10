@@ -17,18 +17,18 @@ This project uses the Spotipy library in Google Colab to analyse personal Spotif
 
 <b><i>Setup</i></b>
 
-    1. Clone this repository:
+1. Clone this repository:
 
 git clone https://github.com/RubyNixx/spotipy_user_analysis.git
 
-  2. Set up your Spotify Developer account:
+2. Set up your Spotify Developer account:
 
 *    Go to the Spotify Developer Dashboard
 *   Create a new app
 *   Note your Client ID and Client Secret
 *   Add http://localhost:8888/callback as a Redirect URI in your app settings
 
-  3. Set environment variables with your Spotify credentials:
+3. Set environment variables with your Spotify credentials:
 <b>Do not share your API client ID or client secret on Github</b>
 export SPOTIPY_CLIENT_ID='your-client-id'
 export SPOTIPY_CLIENT_SECRET='your-client-secret'
