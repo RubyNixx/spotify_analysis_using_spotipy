@@ -42,11 +42,7 @@ https://github.com/RubyNixx/spotipy_user_analysis/blob/main/Steps_to_create_env_
 
 6. Sample Outputs:
 
-![spotipy1](https://github.com/user-attachments/assets/6d96f552-314f-4039-a236-cf2182cb2ee0)
-
 ![spotipy2](https://github.com/user-attachments/assets/8346eab9-e412-4d0e-b6ce-4965b254605a)
-
-![spotipy3](https://github.com/user-attachments/assets/6700eb9d-ca7d-495e-9532-7a300557b0e1)
 
 ![spotipy_energy_dist](https://github.com/user-attachments/assets/33499f9f-a689-46ee-bd57-16c4ecf3b629)
 
@@ -57,6 +53,12 @@ https://github.com/RubyNixx/spotipy_user_analysis/blob/main/Steps_to_create_env_
 ![spotipy5](https://github.com/user-attachments/assets/504ff13e-4b02-4827-9078-faa1331af390)
 
 ![ShortTermVsLongTerm](https://github.com/user-attachments/assets/d62abd60-93f1-4aea-b6cf-7176c194130e)
+
+![spotipy6](https://github.com/user-attachments/assets/9513dd0c-a987-4cfa-a9e2-747ab8d021db)
+
+![spotipy7](https://github.com/user-attachments/assets/6c5ee392-a052-4cf9-8a52-970098058696)
+
+![spotipy8](https://github.com/user-attachments/assets/623cd09a-9315-47f1-953a-e3d56d06ac32)
 
 The Spotipy library offers several key features for interacting with the Spotify Web API:
 
