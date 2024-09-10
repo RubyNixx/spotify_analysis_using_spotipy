@@ -95,6 +95,8 @@ https://stackoverflow.com/questions/38823403/scrape-deep-audio-features-using-sp
 https://orda.shef.ac.uk/articles/code/Exploring_features_of_Spotify_playlists_data_collection_code/19107998
 
 <b>Other github repo inspiration utilising the API:</b>
+Using approaches likes PCA to reduce dimensions of data:
 https://stmorse.github.io/journal/spotify-api.html
 
+Some examples of how others have used it:
 https://github.com/spotipy-dev/spotipy-examples/blob/main/showcases.ipynb
