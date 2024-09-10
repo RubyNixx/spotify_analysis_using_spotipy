@@ -20,7 +20,6 @@ This project uses the Spotipy library in Google Colab to analyse personal Spotif
     1. Clone this repository:
 
 git clone https://github.com/RubyNixx/spotipy_user_analysis.git
-cd spotify-listening-stats
 
   2. Set up your Spotify Developer account:
 
