@@ -35,3 +35,17 @@ export SPOTIPY_CLIENT_SECRET='your-client-secret'
 export SPOTIPY_REDIRECT_URI='http://localhost:8888/callback'
 
 4. Run the main script in google colab
+
+5. On first run, you'll be prompted to authorise the app to access your Spotify data. Follow the link provided to complete the authorisation process.
+
+6. Sample Outputs:
+
+![spotipy1](https://github.com/user-attachments/assets/6d96f552-314f-4039-a236-cf2182cb2ee0)
+
+![spotipy2](https://github.com/user-attachments/assets/8346eab9-e412-4d0e-b6ce-4965b254605a)
+
+![spotipy3](https://github.com/user-attachments/assets/6700eb9d-ca7d-495e-9532-7a300557b0e1)
+
+![ShortTermVsLongTerm](https://github.com/user-attachments/assets/d62abd60-93f1-4aea-b6cf-7176c194130e)
+
+
