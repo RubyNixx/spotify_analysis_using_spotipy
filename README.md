@@ -33,11 +33,10 @@ git clone https://github.com/RubyNixx/spotipy_user_analysis.git
 
 To handle this, i've used files with enviroment variables (.env) and utilised a .gitignore file to ensure sensitive information isnt included. I've then set and called them as variables within the python code.
 
-export SPOTIPY_CLIENT_ID='your-client-id'
-export SPOTIPY_CLIENT_SECRET='your-client-secret'
-export SPOTIPY_REDIRECT_URI='http://localhost:8888/callback'
+Create a .env file and store in a secure place. See these instructions how to create a .env file:
+https://github.com/RubyNixx/spotipy_user_analysis/blob/main/Steps_to_create_env_file.md
 
-4. Run the main script in google colab
+4. Run the main python script in google colab
 
 5. On first run, you'll be prompted to authorise the app to access your Spotify data. Follow the link provided to complete the authorisation process.
 
