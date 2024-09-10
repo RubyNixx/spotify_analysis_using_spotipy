@@ -19,7 +19,7 @@ This project uses the Spotipy library in Google Colab to analyse personal Spotif
 
 1. Clone this repository:
 
-git clone https://github.com/RubyNixx/spotipy_user_analysis.git
+[![Clone](https://img.shields.io/badge/Clone-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RubyNixx/spotify_analysis_using_spotipy.git)
 
 2. Set up your Spotify Developer account:
 
@@ -34,7 +34,7 @@ git clone https://github.com/RubyNixx/spotipy_user_analysis.git
 To handle this, i've used files with enviroment variables (.env) and utilised a .gitignore file to ensure sensitive information isnt included. I've then set and called them as variables within the python code.
 
 Create a .env file and store in a secure place. See these instructions how to create a .env file:
-https://github.com/RubyNixx/spotipy_user_analysis/blob/main/Steps_to_create_env_file.md
+https://github.com/RubyNixx/spotify_analysis_using_spotipy/blob/main/Steps_to_create_env_file.md
 
 4. Run the main python script in google colab
 
